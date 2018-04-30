@@ -5,4 +5,13 @@
     margin: 3px;
     padding: 3px;
     width: auto;
+    align-self: center;
+    background-color: black;
+    border-color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: orangered;
+}
+.body {
+    background-color: black
 }

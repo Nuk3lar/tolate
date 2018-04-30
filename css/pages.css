@@ -1,0 +1,70 @@
+.body_pages_links_body {
+    width: auto;
+    height: auto;
+    background-color: black;
+    color: orangered;
+    font-size: 100%;
+    text-align: center;
+    line-height: 20px;
+    padding: 3px;
+    margin: 1.5px;
+    font-family: verdana;
+    vertical-align: center;
+}
+.body_pages_links_header {
+    width: auto;
+    height: auto;
+    background-color: black;
+    color: orangered;
+    font-size: 120%;
+    text-align: center;
+    line-height: auto;
+    padding: 1px;
+    margin: 1.5px;
+    font-family: verdana;
+    vertical-align: center;
+}
+.body_pages_links_container {
+    position: relative;
+    left: 0.5%;
+    width: 48%;
+    height: auto;
+    padding: 3px;
+    margin: 3px;
+    background-color: orangered;
+}
+.body_pages_planned_body {
+    width: auto;
+    height: auto;
+    background-color: black;
+    color: orangered;
+    font-size: 100%;
+    text-align: center;
+    line-height: 20px;
+    padding: 3px;
+    margin: 1.5px;
+    font-family: verdana;
+    vertical-align: center;
+}
+.body_pages_planned_header {
+    width: auto;
+    height: auto;
+    background-color: black;
+    color: orangered;
+    font-size: 120%;
+    text-align: center;
+    line-height: auto;
+    padding: 1px;
+    margin: 1.5px;
+    font-family: verdana;
+    vertical-align: center;
+}
+.body_pages_planned_container {
+    position: relative;
+    float: right;
+    width: 48%;
+    height: auto;
+    padding: 3px;
+    margin: 3px;
+    background-color: orangered;
+}

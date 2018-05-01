@@ -3,13 +3,15 @@
     height: auto;
     background-color: black;
     color: orangered;
-    font-size: 100%;
+    font-size: 140%;
     text-align: center;
     line-height: 20px;
     padding: 3px;
     margin: 1.5px;
     font-family: verdana;
     vertical-align: center;
+    border-radius: 0px 0px 25px 25px;
+    overflow: hidden;
 }
 .body_pages_links_header {
     width: auto;
@@ -23,15 +25,18 @@
     margin: 1.5px;
     font-family: verdana;
     vertical-align: center;
+    border-radius: 25px 25px 0px 0px;
 }
 .body_pages_links_container {
     position: relative;
-    left: 0.5%;
+    float: left;
     width: 48%;
     height: auto;
     padding: 3px;
     margin: 3px;
     background-color: orangered;
+    border-radius: 25px;
+    
 }
 .body_pages_planned_body {
     width: auto;
@@ -45,6 +50,7 @@
     margin: 1.5px;
     font-family: verdana;
     vertical-align: center;
+    border-radius: 0px 0px 25px 25px;
 }
 .body_pages_planned_header {
     width: auto;
@@ -58,6 +64,7 @@
     margin: 1.5px;
     font-family: verdana;
     vertical-align: center;
+    border-radius: 25px 25px 0px 0px;
 }
 .body_pages_planned_container {
     position: relative;
@@ -67,4 +74,36 @@
     padding: 3px;
     margin: 3px;
     background-color: orangered;
+    border-radius: 25px;
+}
+.pages_link {
+    width: auto;
+    height: auto;
+    background-color: rgb(53, 53, 53);
+    color: orangered;
+    font-size: 120%;
+    text-align: center;
+    line-height: 110%;
+    padding: 1px;
+    margin: auto;
+    font-family: verdana;
+    vertical-align: center;
+    border-radius: 25px;
+    font-weight: bold
+}
+.pages_link_container {
+    width: 48%;
+    height: auto;
+    padding: 3px;
+    margin: 3px;
+    background-color: orangered;
+    border-radius: 25px;
+    overflow: hidden;
+}
+.pages_link_container a {
+    text-decoration: none;
+}
+.pages_link_container #testarea {
+    position: relative;
+    float: left;
 }

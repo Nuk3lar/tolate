@@ -92,18 +92,15 @@
     font-weight: bold
 }
 .pages_link_container {
-    width: 48%;
+    width: 98.5%;
     height: auto;
     padding: 3px;
     margin: 3px;
     background-color: orangered;
     border-radius: 25px;
     overflow: hidden;
+    align-content: center;
 }
 .pages_link_container a {
     text-decoration: none;
-}
-.pages_link_container #testarea {
-    position: relative;
-    float: left;
 }

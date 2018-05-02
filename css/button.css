@@ -1,0 +1,30 @@
+.button_outer {
+    width: 98.5%;
+    overflow: hidden;
+    padding: 3px;
+    margin: 3px;
+    background-color: orangered;
+    align-self: center;
+    border-radius: 25px;
+}
+.button {
+    color: orangered;
+    width: auto;
+    overflow: hidden;
+    background-color: black;
+    text-align: center;
+    line-height: 20px;
+    padding: 3px;
+    margin: 1.5px;
+    font-family: verdana;
+    vertical-align: center;
+    border-radius: 25px;
+    font-size: 170%;
+}
+.body_main a {
+    text-decoration: none;
+}
+.body_main {
+    font-size: 140%;
+    line-height: 40%;
+}
